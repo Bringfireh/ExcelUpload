@@ -79,7 +79,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnUpload;
+       
         private System.Windows.Forms.Button btnUploadExcel;
         private System.Windows.Forms.Label lbl;
         private System.Windows.Forms.DataGridView dgv;
