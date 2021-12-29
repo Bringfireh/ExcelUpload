@@ -58,12 +58,12 @@
             this.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgv.Location = new System.Drawing.Point(44, 82);
             this.dgv.Name = "dgv";
-            this.dgv.Size = new System.Drawing.Size(578, 149);
+            this.dgv.Size = new System.Drawing.Size(578, 406);
             this.dgv.TabIndex = 2;
             // 
             // frmMain
             // 
-            this.ClientSize = new System.Drawing.Size(670, 261);
+            this.ClientSize = new System.Drawing.Size(670, 447);
             this.Controls.Add(this.dgv);
             this.Controls.Add(this.lbl);
             this.Controls.Add(this.btnUploadExcel);
